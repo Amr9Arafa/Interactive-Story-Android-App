@@ -14,10 +14,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-/**
-* Author
-* Ahmed Sami <asyn.nile@gmail.com>
-**/
 
 public class MainActivity extends ActionBarActivity {
 	
